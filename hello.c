@@ -6,3 +6,4 @@ int main() {
     printf("Привіт, C!\n");
     return 0;
 }
+// Это изменение для создания Pull Request
